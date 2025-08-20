@@ -17,7 +17,7 @@ Line 2 : It contains multiple lines.
 ### Task 3: Write and Append to a File  
 This script writes user input to a text file and then appends additional input. Finally, it displays the full content of the file.  
 
-- Opens a file named **`output.txt`** in write mode (`'w'`).  
+- Opens a file named **output.txt** in write mode ('w').  
 - Prompts the user to enter text and writes it to the file.  
 - Prints a confirmation message after writing.  
 - Prompts the user for additional text and appends it to the file.  
