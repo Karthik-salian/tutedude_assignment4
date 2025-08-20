@@ -10,6 +10,6 @@ This script reads the content of a text file and prints each line with its line 
   - Handles the **`FileNotFoundError`** gracefully and prints an error message.  
 
 **Example:**  
-Reading file content:
+Reading file content:  
 Line 1 : This is a sample text file.  
 Line 2 : It contains multiple lines.
