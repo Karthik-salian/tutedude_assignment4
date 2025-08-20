@@ -26,10 +26,10 @@ This script writes user input to a text file and then appends additional input. 
 
 **Example:**  
 
-Enter text to write to the file: Hello, Python!
-Data successfully written to output.txt.
-Enter additional text to append: Learning file handling in Python
-Data successfully apended.
-Final content of output.txt:
-Hello, Python!
-Learning file handling in Python
+Enter text to write to the file: Hello, Python!  
+Data successfully written to output.txt.  
+Enter additional text to append: Learning file handling in Python.  
+Data successfully apended.  
+Final content of output.txt:  
+Hello, Python!  
+Learning file handling in Python.  
