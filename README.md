@@ -11,5 +11,5 @@ This script reads the content of a text file and prints each line with its line 
 
 **Example:**  
 Reading file content:
-Line 1 : This is a sample text file.
+Line 1 : This is a sample text file.  
 Line 2 : It contains multiple lines.
